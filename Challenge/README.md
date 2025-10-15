@@ -1,0 +1,5 @@
+Android L1 CTF
+
+SHA256 checksum of the ZIP file: b1cbef85cede8a4c4f6e954f16d712920966b4fbbae8186dee262ecfda7ca22b
+
+SHA256 checksum of the file after decryption: 4047c2612da1dfecec519efd4bab03c82befd65b6296bd9ddc5f20151194520a
